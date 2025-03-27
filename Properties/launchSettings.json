@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VitoBox": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

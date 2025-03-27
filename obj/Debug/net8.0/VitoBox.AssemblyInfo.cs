@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VitoBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5448607ada81421a4ea7e5594c6e34deb5db3cb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7321409eafd648af0640fca1495d87373e43e31c")]
 [assembly: System.Reflection.AssemblyProductAttribute("VitoBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VitoBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
